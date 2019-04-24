@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1456951344 source:x:\studia\studia\programowanie_gier\cubes_strategic\maintest.cpp
+	"SDLHelp.h"
+
+1462996367 x:\studia\studia\programowanie_gier\cubes_strategic\sdlhelp.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<vector>
+	"geometry.h"
+
+1462999077 source:x:\studia\studia\programowanie_gier\cubes_strategic\sdlhelp.cpp
+	"SDLHelp.h"
+
+1462997516 x:\studia\studia\programowanie_gier\cubes_strategic\geometry.h
+	"math.h"
+	<vector>
+
+1463132604 source:x:\studia\studia\programowanie_gier\cubes_strategic\geometry.cpp
+	"geometry.h"
+
