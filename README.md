@@ -1,4 +1,4 @@
 # sphere_rotation_drag
-sphere rotation - mouse drag - opengl
-
-rotation angles stored as quaternions 
+using openGL
+rotating sphere by dragging
+storing rotation with quaternions
