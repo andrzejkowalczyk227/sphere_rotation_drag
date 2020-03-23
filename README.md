@@ -1,4 +1,4 @@
 # sphere_rotation_drag
-using openGL\n
-rotating sphere by dragging\n
+using openGL, 
+rotating sphere by dragging, 
 storing rotation with quaternions
